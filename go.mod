@@ -1,5 +1,5 @@
 module github.com/zimmah/web-crawler-go
 
-go 1.23.0
+go 1.25.0
 
-require golang.org/x/net v0.28.0
+require golang.org/x/net v0.55.0
